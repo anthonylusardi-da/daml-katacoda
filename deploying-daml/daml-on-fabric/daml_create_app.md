@@ -15,7 +15,7 @@ Tests:
 [[NODE_IP]]
 [[NODE01_IP]]
 [[NODE02_IP]]
-```
+```{{execute T1}}
 
 [[NODE_SUBDOMAIN]]
 [[NODE01_SUBDOMAIN]]
