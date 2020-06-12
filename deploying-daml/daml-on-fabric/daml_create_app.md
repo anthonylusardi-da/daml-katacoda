@@ -7,6 +7,16 @@ daml create-daml-app my-app
 
 Tests:
 
+```
+[[HOST_SUBDOMAIN]]
+[[HOST1_SUBDOMAIN]]
+[[HOST2_SUBDOMAIN]]
+
+[[HOST_IP]]
+[[HOST1_IP]]
+[[HOST2_IP]]
+```
+
 [[HOST_SUBDOMAIN]]
 [[HOST1_SUBDOMAIN]]
 [[HOST2_SUBDOMAIN]]
