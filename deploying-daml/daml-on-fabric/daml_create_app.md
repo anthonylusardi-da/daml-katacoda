@@ -3,3 +3,14 @@ First thing we'll need to do is get our DAML application. In this case we'll be 
 ```
 daml create-daml-app my-app
 ```{{execute T1}}
+
+
+Tests:
+
+[[HOST_SUBDOMAIN]]
+[[HOST1_SUBDOMAIN]]
+[[HOST2_SUBDOMAIN]]
+
+[[HOST_IP]]
+[[HOST1_IP]]
+[[HOST2_IP]]
