@@ -56,10 +56,9 @@
     "uieditorpath": "/root/my-app",
     "dashboards": [{"name": "UI", "port": 3000}],
     "terminals": [
-        {"name": "Terminal 1", "target": "node01"},
-        {"name": "Terminal 2", "target": "node01"},
-        {"name": "Terminal 3", "target": "node02"},
-        {"name": "Terminal 4", "target": "node02"}
+        {"name": "Terminal 2", "target": "host01"},
+        {"name": "Terminal 3", "target": "host02"},
+        {"name": "Terminal 4", "target": "host02"}
       ],
     "idePort": 23000,
     "uilayout": "terminal-iframe"
